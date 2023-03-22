@@ -1,1 +1,1 @@
-# Assembler-MIP16
+# Assembler-MIPS16
